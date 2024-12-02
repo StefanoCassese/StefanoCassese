@@ -38,7 +38,7 @@ Outside tech, 🏃 I enjoy playing sports, 🎮 playing videogames,🎵 listenin
 
 Connect with me:
 
-<a href="www.linkedin.com/in/stefanocasseseprofile" target="_blank">
+<a href="https://www.linkedin.com/in/stefanocasseseprofile/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
